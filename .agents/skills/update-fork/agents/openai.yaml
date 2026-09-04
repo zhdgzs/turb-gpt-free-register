@@ -1,0 +1,4 @@
+interface:
+  display_name: "更新 Fork"
+  short_description: "安全地将上游新提交合并并推送到当前 fork 仓库"
+  default_prompt: "使用 $update-fork 将上游仓库的新提交安全合并并推送到当前 fork。"
